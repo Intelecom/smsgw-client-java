@@ -22,21 +22,18 @@
 	<developers>
 		<developer>
 			<name>Gunnar Grenlee</name>
-			<email>gunnar.grenlee@intele.com</email>
-			<organization>Intelecom Group AS</organization>
-			<organizationUrl>https://www.intelecom.no/</organizationUrl>
 		</developer>
 		<developer>
 			<name>Andreas Häber</name>
-			<email>andreas.haber@intele.com</email>
-			<organization>Intelecom Group AS</organization>
-			<organizationUrl>https://www.intelecom.no/</organizationUrl>
+			<email>andreas.haber@puzzel.com</email>
+			<organization>Puzzel AS</organization>
+			<organizationUrl>https://www.puzzel.com</organizationUrl>
 		</developer>
 		<developer>
 			<name>Sven Ståle Osa</name>
-			<email>sven.stale.osa@intele.com</email>
-			<organization>Intelecom Group AS</organization>
-			<organizationUrl>https://www.intelecom.no/</organizationUrl>
+			<email>sven.stale.osa@puzzel.com</email>
+			<organization>Puzzel AS</organization>
+			<organizationUrl>https://www.puzzel.com</organizationUrl>
 		</developer>
 	</developers>
 	
@@ -123,7 +120,7 @@
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
-			<version>4.12</version>
+			<version>4.13.1</version>
 			<scope>test</scope>
 		</dependency>
 		<dependency>
